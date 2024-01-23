@@ -25,3 +25,15 @@ If the entire board is filled, and no player has won, the game ends in a draw.
 Play Again:
 
 After the game ends, you have the option to play again.
+
+
+Game Logic
+The game logic is implemented in a Java application with a graphical user interface using javax.swing. It provides an interactive and enjoyable experience for two players.
+
+Contributing
+Feel free to contribute to the improvement of the game! If you have suggestions, bug fixes, or feature enhancements, submit a pull request.
+
+License
+This Tic Tac Toe game with GUI is open-source and available under the MIT License.
+
+Enjoy the game and happy coding! 🎉
